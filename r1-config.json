@@ -1,0 +1,7 @@
+{
+  "type": "rabbit_creation",
+  "version": "1.0.0",
+  "action": "open_url",
+  "url": "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/",
+  "title": "Asura Reader"
+}
